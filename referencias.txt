@@ -1,0 +1,7 @@
+https://blog.stackpath.com/glossary/brute-force-attack/
+https://www.tutorialspoint.com/python/python_multithreading.htm
+https://stackoverflow.com/questions/2846653/how-to-use-threading-in-python
+https://stackoverflow.com/questions/16060899/alphabet-range-python
+https://www.pythonforbeginners.com/loops/for-while-and-nested-loops-in-python
+https://www.tutorialspoint.com/python/python_if_else.htm
+https://stackoverflow.com/questions/35805078/how-do-i-convert-a-password-into-asterisks-while-it-is-being-entered
